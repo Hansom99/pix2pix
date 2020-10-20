@@ -6,6 +6,8 @@ from util.visualizer import save_images
 from util import html
 
 
+#test
+
 if __name__ == '__main__':
     opt = TestOptions().parse()
     opt.nThreads = 1   # test code only supports nThreads = 1
